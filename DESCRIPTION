@@ -15,3 +15,5 @@ Imports:
     ggplot2,
     readr,
     magrittr
+URL: https://github.com/FAES-R-Tutorials/DataCleaningGenomics
+BugReports: https://github.com/FAES-R-Tutorials/DataCleaningGenomics/issues
